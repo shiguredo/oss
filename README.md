@@ -15,13 +15,30 @@
 
 時雨堂が公開しているオープンソースソフトウェアはすべて Apache License 2.0 で公開しています。
 
+[Apache License, Version 2\.0](https://www.apache.org/licenses/LICENSE-2.0)
+
 ## Discord
 
+時雨堂では Discord にオープンソースソフトウェアのコミュニティを持っており、３つのサーバを管理しています。
 
+- OpenMomo サーバ
+    - OpenMomo プロジェクトのサーバ
+    - https://discord.gg/gmEuZye
+- OpenAyame サーバ
+    - OpenAyame プロジェクトのサーバ
+    - https://discord.gg/mDesh2E
+- Sora Labo / Sora SDK サーバ
+    - Sora Labo サービスと Sora SDK のサーバ
+    - https://discord.gg/k68nkRR
+
+それぞれのオープンソース向けのチャネル向けにも招待 URL を用意してありますが、
+上記 3 つのサーバに参加した場合は、個別の参加は不要です。
 
 ### Sora JavaScript SDK
 
 Sora Labo / Sora SDK サーバ の #javascript チャネル
+
+https://discord.gg/uZ5wgHE
 
 ### Sora iOS SDK
 
@@ -31,23 +48,33 @@ https://discord.gg/Ac9fJ9S
 
 ### Sora Android SDK
 
-Sora Labo / Sora SDK サーバ の #javascript チャネル
+Sora Labo / Sora SDK サーバ の #android チャネル
+
+https://discord.gg/QWUKD2f
 
 ### Sora Unity SDK
 
 Sora Labo / Sora SDK サーバ の #unity チャネル
 
+https://discord.gg/pFPQ5pS
+
 ### Sora E2EE ライブラリ
 
 Sora Labo / Sora SDK サーバ の #e2ee チャネル
 
+https://discord.gg/EbbB59s
+
 ### WebRTC Native Client Momo
 
-Momo サーバ
+OpenMomo サーバ
+
+https://discord.gg/gmEuZye
 
 ### Ayame WebRTC Signaling Server
 
-Ayame サーバ
+OpenAyame サーバ
+
+https://discord.gg/mDesh2E
 
 ### React Native WebRTC Kit
 
