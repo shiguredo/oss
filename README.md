@@ -27,7 +27,7 @@
 - OpenAyame サーバ
     - OpenAyame プロジェクトのサーバ
     - https://discord.gg/mDesh2E
-- Sora Labo / Sora SDK サーバ
+- Sora Labo / Sora 関連 OSS
     - Sora Labo サービスと Sora SDK のサーバ
     - https://discord.gg/k68nkRR
 
