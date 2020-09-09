@@ -17,6 +17,16 @@
 
 [Apache License, Version 2\.0](https://www.apache.org/licenses/LICENSE-2.0)
 
+## バージョン番号について
+
+```
+YYYY.RELEASE[.FIX]
+```
+
+- YYYY は年
+- RELEASE はその年にリリースした回数
+- FIX はオプションでバグフィックス対応のみのアップデートに利用
+
 ## Discord
 
 時雨堂では Discord にコミュニティを持っており、３つのサーバを管理しています。
