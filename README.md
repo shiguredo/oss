@@ -74,6 +74,12 @@ Sora Labo / Sora SDK サーバ の #e2ee チャネル
 
 https://discord.gg/EbbB59s
 
+### WebRTC Load Testing Tool Zakuro
+
+Sora Labo / Sora SDK サーバ の #zakuro チャネル
+
+https://discord.gg/eEUZf6j
+
 ### WebRTC Native Client Momo
 
 OpenMomo サーバ
