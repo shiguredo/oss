@@ -74,6 +74,12 @@ Sora Labo / Sora SDK サーバ の #e2ee チャネル
 
 https://discord.gg/EbbB59s
 
+### Sora デモ機能
+
+Sora Labo / Sora SDK サーバ の #sora-demo チャネル
+
+https://discord.gg/wYqeSyF
+
 ### WebRTC Load Testing Tool Zakuro
 
 Sora Labo / Sora SDK サーバ の #zakuro チャネル
