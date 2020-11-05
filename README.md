@@ -126,6 +126,12 @@ Sora Labo / Sora SDK サーバ の #zakuro チャネル
 
 https://discord.gg/eEUZf6j
 
+### Recoridng Composition Tool Hisui
+
+Sora Labo / Sora SDK サーバ の #hisui チャネル
+
+https://discord.gg/S3NWYW6Nv6
+
 ### WebRTC Native Client Momo
 
 OpenMomo サーバ
