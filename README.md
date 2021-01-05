@@ -26,6 +26,16 @@ YYYY.RELEASE[.FIX]
 - YYYY は年
 - RELEASE はその年にリリースした回数
 - FIX はオプションでバグフィックス対応のみのアップデートに利用
+- npm などのバージョンの形式が固定されている場合は `YYYY.RELEASE.0` を利用することがあります
+
+### Canary バージョンについて
+
+```
+YYYY.RELEASE[.FIX]-canary.[CANARY-RELEASE]
+```
+
+- リリース前に Canary として開発版を定期的にリリースすることがあります
+- CANARY-RELEASE は 0 から始まります
 
 ## 言語
 
@@ -149,4 +159,5 @@ https://discord.gg/mDesh2E
 Sora Labo / Sora SDK サーバ の #react-native-webrtc-kit チャネル
 
 https://discord.gg/HqfAgEs
+
 
