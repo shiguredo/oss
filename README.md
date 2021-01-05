@@ -37,6 +37,10 @@ YYYY.RELEASE[.FIX]-canary.CANARY-RELEASE
 - リリース前に Canary として開発版を定期的にリリースすることがあります
 - CANARY-RELEASE は 0 から始まり、リリースされるまで 1,2,3... と増えていきます
 
+- バージョン例
+    - 2021.1-canary.0
+    - 2021.3.1-canary.3
+
 ## 言語
 
 時雨堂メンバーまたは管理者は日本語以外には対応しません。
@@ -159,5 +163,3 @@ https://discord.gg/mDesh2E
 Sora Labo / Sora SDK サーバ の #react-native-webrtc-kit チャネル
 
 https://discord.gg/HqfAgEs
-
-
