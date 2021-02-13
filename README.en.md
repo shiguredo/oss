@@ -26,7 +26,7 @@ Please ask your questions in the respective channel of Discord.
 ## Improvement requests and bug reports
 
 If you have any suggestions for improvement or bug reports, please send them to the respective Discord channel.
-However, please note that we do not guarantee response time or resolution, regardless of whether or not you have a license agreement for Shigure-Do commercial products.
+However, please note that we do not guarantee response time or resolution, regardless of whether or not you have a license agreement for Shiguredo commercial products.
 
 ## GitHub Issues
 
@@ -42,7 +42,7 @@ If you find it difficult to do so, please use fork.
 
 ## Discord
 
-Shigure-Do has a community on Discord, and maintains three servers.
+Shiguredo has a community on Discord, and maintains three servers.
 
 - OpenMomo server
     - OpenMomo project's server
@@ -122,3 +122,4 @@ https://discord.gg/mDesh2E
 #react-native-webrtc-kit channel in Sora Labo / Sora SDK server
 
 https://discord.gg/HqfAgEs
+
