@@ -56,7 +56,7 @@ YYYY.RELEASE[.FIX]-canary.CANARY-RELEASE
 
 質問は Discord のそれぞれのチャネルへお願いします。
 
-時雨堂メンバーは **誰かの質問に回答した人からの質問** しか回答しません。
+時雨堂メンバーは **貢献ラベルを保持している方** からの質問にしか回答しません。
 
 ### ビルド関連の質問
 
@@ -65,9 +65,9 @@ YYYY.RELEASE[.FIX]-canary.CANARY-RELEASE
 - ビルド済みバイナリを利用して下さい
 - 自前でビルドしたい人は GitHub Actions の設定を参考にして下さい
 
-## 改善希望やバグ報告
+## バグ報告
 
-改善希望やバグ報告はまず Discord のそれぞれのチャネルへお願いします。
+バグ報告はまず Discord のそれぞれのチャネルへお願いします。
 ただし、 Sora のライセンス契約の有無に関わらず、応答時間と解決を保証しませんのでご了承ください。
 
 ## GitHub Issues
@@ -180,3 +180,4 @@ https://discord.gg/mDesh2E
 Sora Labo / Sora SDK サーバ の #react-native-webrtc-kit チャネル
 
 https://discord.gg/HqfAgEs
+
