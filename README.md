@@ -165,7 +165,7 @@ Sora Labo / Sora SDK サーバ の #zakuro チャネル
 
 https://discord.gg/eEUZf6j
 
-### Recoridng Composition Tool Hisui / cpp-mp4
+### Recoridng Composition Tool Hisui
 
 Sora Labo / Sora SDK サーバ の #hisui チャネル
 
@@ -189,3 +189,14 @@ Sora Labo / Sora SDK サーバ の #react-native-webrtc-kit チャネル
 
 https://discord.gg/HqfAgEs
 
+### cpp-mp4
+
+Sora Labo / Sora SDK サーバ の #cpp-mp4 チャネル
+
+https://discord.gg/FGxSTyCcma
+
+### sphinx_shiguredo_theme
+
+Sora Labo / Sora SDK サーバ の #sphinx_shiguredo_theme チャネル
+
+https://discord.gg/kZjqQyGKHf
