@@ -40,6 +40,14 @@ Once merged, improvements and fixes need to be maintained on an ongoing basis. F
 
 If you find it difficult to do so, please use fork.
 
+## About paid support
+
+The open source software released by Shiguredo does not offer paid support.
+
+## Customization for a fee
+
+The open source software published by Shiguredo does not offer paid customization.
+
 ## Discord
 
 Shiguredo has a community on Discord, and maintains three servers.
