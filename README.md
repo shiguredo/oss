@@ -58,6 +58,16 @@ YYYY.RELEASE[.FIX]-canary.CANARY-RELEASE
 
 時雨堂メンバーは **貢献ラベルを保持している方** からの質問にしか回答しません。
 
+プログラミング言語やフレームワークの利用方法については [Stack Overflow](https://stackoverflow.com/) などを利用してください。
+
+### 問題があって困っている場合
+
+何がわかれば問題が解決するかを教えてください。
+
+### 使い方がわからなくて困っている場合
+
+何がやりたくて困っているかを教えてください。
+
 ### ビルド関連の質問
 
 **ビルド関連の質問には対応しません**
@@ -200,3 +210,4 @@ https://discord.gg/FGxSTyCcma
 Sora Labo / Sora SDK サーバ の #sphinx_shiguredo_theme チャネル
 
 https://discord.gg/kZjqQyGKHf
+
