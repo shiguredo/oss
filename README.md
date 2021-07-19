@@ -133,6 +133,13 @@ Discord で相談されて、時雨堂メンバーまたは管理者から Issue
 
 もちろん、再度参加は可能ですので、ご安心下さい。
 
+＃＃＃ Sora SDK について
+
+Sora の SDK は Sora を利用している場合のみ対応をします。
+そのため、質問をするときは必ず Sora のバージョンを教えてください。
+
+Sora Labo の場合は Sora Labo と GitHub アカウントをお知らせ下さい。
+
 ### Sora JavaScript SDK
 
 Sora Labo / Sora SDK サーバ の #javascript チャネル
