@@ -65,6 +65,13 @@ Shiguredo has a community on Discord, and maintains three servers.
 There is also an invitation URL for each of the open source channels.
 You don't need to join them separately if you join the above three servers.
 
+### About Sora SDK
+
+Sora's SDK will only be supported if you are using Sora.
+So, please make sure to tell us your Sora version when you ask questions.
+
+If you are using Sora Labo, please provide your Sora Labo and GitHub account.
+
 ### Sora JavaScript SDK
 
 Sora Labo / Sora SDK server #javascript channel
