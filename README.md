@@ -218,3 +218,9 @@ Sora Labo / Sora SDK サーバ の #sphinx_shiguredo_theme チャネル
 
 https://discord.gg/kZjqQyGKHf
 
+
+### webrtcforthecurious-ja
+
+https://webrtcforthecurious.com/ の日本語翻訳相談チャンネル
+
+https://discord.gg/QukPUPBUdp
