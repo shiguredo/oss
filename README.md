@@ -26,7 +26,7 @@ YYYY.RELEASE[.FIX]
 - YYYY は年
 - RELEASE はその年にリリースした回数
 - FIX はオプションでバグフィックス対応のみのアップデートに利用
-- npm などのバージョンの形式が固定されている場合は `YYYY.RELEASE.0` を利用することがあります
+- npm や SwfitPM などのバージョンの形式が固定されている場合は `YYYY.RELEASE.0` を利用することがあります
     - YYYY.RELEASE と YYYY.RELEASE.0 は同一です
 - バージョン例
     - 2021.1
@@ -56,7 +56,7 @@ YYYY.RELEASE[.FIX]-canary.CANARY-RELEASE
 
 質問は Discord のそれぞれのチャネルへお願いします。
 
-時雨堂メンバーは **貢献ラベルを保持している方** からの質問にしか回答しません。
+時雨堂メンバーは **貢献ラベルを保持している方** からの質問を優先的に回答します。
 
 プログラミング言語やフレームワークの利用方法については [Stack Overflow](https://stackoverflow.com/) などを利用してください。
 
