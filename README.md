@@ -93,10 +93,18 @@ Discord で相談されて、時雨堂メンバーまたは管理者から Issue
 
 ## 優先機能実装について
 
-時雨堂が公開しているオープンソースソフトウェアの一部は実装を予定している機能を「優先して実装する」という有償での依頼を受けているものがあります。
+時雨堂が公開しているオープンソースソフトウェアは実装を予定している機能を「優先して実装する」という有償での依頼を受けているものがあります。
 
-- Sora Unity SDK
-- WebRTC Native Client Momo
+- [WebRTC SFU Sora JavaScript SDK](https://github.com/shiguredo/sora-js-sdk)
+- [WebRTC SFU Sora デモアプリ](https://github.com/shiguredo/sora-demo)
+- [WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
+- [WebRTC SFU Sora Android SDK](https://github.com/shiguredo/sora-android-sdk)
+- [WebRTC SFU Sora Unity SDK](https://github.com/shiguredo/sora-unity-sdk)
+- [WebRTC Load Testing Tool Zakuro](https://github.com/shiguredo/zakuro)
+- [Recording Composition Tool Hisui](https://github.com/shiguredo/hisui)
+- [WebRTC Stats Collector Kohaku](https://github.com/shiguredo/kohaku)
+- [WebRTC Native Client Momo](https://github.com/shiguredo/momo)
+- [webrtc-build](https://github.com/shiguredo-webrtc-build/webrtc-build)
 
 優先機能実装を依頼できるのは WebRTC SFU Sora のライセンスを購入しているお客様のみとさせていただいております。
 
