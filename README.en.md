@@ -50,20 +50,11 @@ The open source software published by Shiguredo does not offer paid customizatio
 
 ## Discord
 
-Shiguredo has a community on Discord, and maintains three servers.
+Shiguredo has a community server on Discord.
 
-- OpenMomo server
-    - OpenMomo project's server
-    - https://discord.gg/gmEuZye
-- OpenAyame server
-    - The OpenAyame project's server
-    - https://discord.gg/mDesh2E
-- Sora Labo / Sora-related OSS
-    - Server for Sora Labo services and Sora SDK
-    - https://discord.gg/k68nkRR
+https://discord.gg/shiguredo
 
-There is also an invitation URL for each of the open source channels.
-You don't need to join them separately if you join the above three servers.
+We recommend that you set up an icon.
 
 ### About Sora SDK
 
@@ -71,70 +62,4 @@ Sora's SDK will only be supported if you are using Sora.
 So, please make sure to tell us your Sora version when you ask questions.
 
 If you are using Sora Labo, please provide your Sora Labo and GitHub account.
-
-### Sora JavaScript SDK
-
-Sora Labo / Sora SDK server #javascript channel
-
-https://discord.gg/uZ5wgHE
-
-### Sora iOS SDK
-
-IOS channel of Sora Labo / Sora SDK servers.
-
-https://discord.gg/Ac9fJ9S
-
-### Sora Android SDK
-
-The #android channel of Sora Labo / Sora SDK servers.
-
-https://discord.gg/QWUKD2f
-
-### Sora Unity SDK
-
-The #unity channel of Sora Labo / Sora SDK server.
-
-https://discord.gg/pFPQ5pS
-
-### Sora E2EE library
-
-Sora Labo / Sora SDK server's #e2ee channel.
-
-https://discord.gg/EbbB59s
-
-### Sora demo features
-
-Sora Labo / Sora SDK server's #sora-demo channel
-
-https://discord.gg/wYqeSyF
-
-### WebRTC Load Testing Tool Zakuro
-
-Sora Labo / Sora SDK server's #zakuro channel
-
-https://discord.gg/eEUZf6j
-
-### Recoridng Composition Tool Hisui / cpp-mp4
-
-Hisui channel in Sora Labo / Sora SDK server.
-
-https://discord.gg/S3NWYW6Nv6
-
-### WebRTC Native Client Momo
-
-OpenMomo server
-
-https://discord.gg/gmEuZye
-
-### Ayame WebRTC Signaling Server
-
-OpenAyame Server
-
-https://discord.gg/mDesh2E
-
-### React Native WebRTC Kit
-
-#react-native-webrtc-kit channel in Sora Labo / Sora SDK server
-
-https://discord.gg/HqfAgEs
 
