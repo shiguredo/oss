@@ -122,13 +122,14 @@ Discord で相談されて、時雨堂メンバーまたは管理者から Issue
 
 - OpenMomo サーバ
     - OpenMomo プロジェクトのサーバ
+    - 時雨堂サーバに統合予定です
     - https://discord.gg/gmEuZye
 - OpenAyame サーバ
     - OpenAyame プロジェクトのサーバ
+    - 時雨堂サーバに統合予定です
     - https://discord.gg/mDesh2E
-- Sora Labo / Sora 関連 OSS
-    - Sora Labo サービスと Sora SDK のサーバ
-    - https://discord.gg/k68nkRR
+- 時雨堂サーバ
+    - https://discord.gg/shiguredo
 
 それぞれのオープンソース向けのチャネル向けにも招待 URL を用意してありますが、
 上記 3 つのサーバに参加した場合は、個別の参加は不要です。
@@ -150,49 +151,49 @@ Sora Labo の場合は Sora Labo と GitHub アカウントをお知らせ下さ
 
 ### Sora JavaScript SDK
 
-Sora Labo / Sora SDK サーバ の #javascript チャネル
+時雨堂サーバの #javascript チャネル
 
 https://discord.gg/uZ5wgHE
 
 ### Sora iOS SDK
 
-Sora Labo / Sora SDK サーバ の #ios チャネル
+時雨堂サーバの #ios チャネル
 
 https://discord.gg/Ac9fJ9S
 
 ### Sora Android SDK
 
-Sora Labo / Sora SDK サーバ の #android チャネル
+時雨堂サーバの #android チャネル
 
 https://discord.gg/QWUKD2f
 
 ### Sora Unity SDK
 
-Sora Labo / Sora SDK サーバ の #unity チャネル
+時雨堂サーバの #unity チャネル
 
 https://discord.gg/pFPQ5pS
 
 ### Sora E2EE ライブラリ
 
-Sora Labo / Sora SDK サーバ の #e2ee チャネル
+時雨堂サーバの #e2ee チャネル
 
 https://discord.gg/EbbB59s
 
 ### Sora デモ機能
 
-Sora Labo / Sora SDK サーバ の #sora-demo チャネル
+時雨堂サーバの #sora-demo チャネル
 
 https://discord.gg/wYqeSyF
 
 ### WebRTC Load Testing Tool Zakuro
 
-Sora Labo / Sora SDK サーバ の #zakuro チャネル
+時雨堂サーバの #zakuro チャネル
 
 https://discord.gg/eEUZf6j
 
 ### Recoridng Composition Tool Hisui
 
-Sora Labo / Sora SDK サーバ の #hisui チャネル
+時雨堂サーバの #hisui チャネル
 
 https://discord.gg/S3NWYW6Nv6
 
@@ -210,19 +211,19 @@ https://discord.gg/mDesh2E
 
 ### React Native WebRTC Kit
 
-Sora Labo / Sora SDK サーバ の #react-native-webrtc-kit チャネル
+時雨堂サーバの #react-native-webrtc-kit チャネル
 
 https://discord.gg/HqfAgEs
 
 ### cpp-mp4
 
-Sora Labo / Sora SDK サーバ の #cpp-mp4 チャネル
+時雨堂サーバの #cpp-mp4 チャネル
 
 https://discord.gg/FGxSTyCcma
 
 ### sphinx_shiguredo_theme
 
-Sora Labo / Sora SDK サーバ の #sphinx_shiguredo_theme チャネル
+時雨堂サーバ の #sphinx_shiguredo_theme チャネル
 
 https://discord.gg/kZjqQyGKHf
 
@@ -232,4 +233,5 @@ https://discord.gg/kZjqQyGKHf
 https://webrtcforthecurious.com/ の日本語翻訳相談チャンネル
 
 https://discord.gg/QukPUPBUdp
+
 
