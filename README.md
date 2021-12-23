@@ -20,30 +20,27 @@
 ## バージョン番号について
 
 ```
-YYYY.RELEASE[.FIX]
+YYYY.RELEASE.FIX
 ```
 
 - YYYY は年
 - RELEASE はその年にリリースした回数
-- FIX はオプションでバグフィックス対応のみのアップデートに利用
-- npm や SwfitPM などのバージョンの形式が固定されている場合は `YYYY.RELEASE.0` を利用することがあります
-    - YYYY.RELEASE と YYYY.RELEASE.0 は同一です
+- FIX は 0 から始まり、バグフィックス対応時にインクリメントする
 - バージョン例
-    - 2021.1
     - 2021.1.0
-    - 2021.3
+    - 2021.3.1
 
 ### Canary バージョンについて
 
 ```
-YYYY.RELEASE[.FIX]-canary.CANARY-RELEASE
+YYYY.RELEASE.FIX-canary.CANARY-RELEASE
 ```
 
 - リリース前に Canary として開発版を定期的にリリースすることがあります
 - CANARY-RELEASE は 0 から始まり、リリースされるまで 1,2,3... と増えていきます
 
 - バージョン例
-    - 2021.1-canary.0
+    - 2021.1.0-canary.0
     - 2021.3.1-canary.3
 
 ## 言語
