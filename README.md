@@ -36,7 +36,7 @@ YYYY.RELEASE.FIX
 YYYY.RELEASE.FIX-canary.CANARY-RELEASE
 ```
 
-- リリース前に Canary として開発版を定期的にリリースすることがあります
+- リリース前に Canary として開発中のバージョンを定期的にリリースすることがあります
 - CANARY-RELEASE は 0 から始まり、リリースされるまで 1,2,3... と増えていきます
 
 - バージョン例
