@@ -71,6 +71,7 @@ YYYY.RELEASE.FIX-canary.CANARY-RELEASE
 
 - ビルド済みバイナリを利用して下さい
 - 自前でビルドしたい人は GitHub Actions の設定を参考にして下さい
+- Discord で質問すること自体は問題ありません
 
 ## バグ報告
 
