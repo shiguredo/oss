@@ -16,12 +16,21 @@ Discord and GitHub discussions will be in Japanese only.
 
 Please ask your questions in the respective channel of Discord.
 
+### Customization related questions
+
+**No Shiguredo member or administrator will respond to customization-related questions**.
+
+- Customization questions will be answered with "Customization questions will not be answered by Shiguredo members or administrators".
+- Asking questions on Discord is not a problem
+
 ### Build related questions
 
-**We do not respond to build-related questions**.
+**No Shiguredo member or administrator will respond to build-related questions**.
 
-- Please use the pre-built binaries.
-- If you want to build your own, please refer to the GitHub Actions settings.
+- Please use pre-built binaries.
+- If you want to build your own binaries, please refer to GitHub Actions
+- If you have a build question, we will reply "No Shigureido members or admins will respond to build-related questions".
+- Asking questions on Discord is not a problem.
 
 ## Improvement requests and bug reports
 
