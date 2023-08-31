@@ -64,6 +64,7 @@ YYYY.RELEASE.FIX-canary.CANARY-RELEASE
 ### 使い方がわからなくて困っている場合
 
 何がやりたくて困っているかを教えてください。
+Gist などを利用してこちらがわかるように丁寧にお伝えください。
 
 ### カスタマイズ関連の質問
 
@@ -102,17 +103,25 @@ Discord で相談されて、時雨堂メンバーまたは管理者から Issue
 時雨堂が公開しているオープンソースソフトウェアは実装を予定している機能を「優先して実装する」という有償での依頼を受けているものがあります。
 
 - [WebRTC SFU Sora JavaScript SDK](https://github.com/shiguredo/sora-js-sdk)
-- [WebRTC SFU Sora デモアプリ](https://github.com/shiguredo/sora-demo)
+- [WebRTC SFU Sora DevTools](https://github.com/shiguredo/sora-devtools)
 - [WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
 - [WebRTC SFU Sora Android SDK](https://github.com/shiguredo/sora-android-sdk)
 - [WebRTC SFU Sora Unity SDK](https://github.com/shiguredo/sora-unity-sdk)
+- [WebRTC SFU Sora C++ SDK](https://github.com/shiguredo/sora-cpp-sdk)
+- [WebRTC SFU Sora Python SDK](https://github.com/shiguredo/sora-python-sdk)
 - [WebRTC Load Testing Tool Zakuro](https://github.com/shiguredo/zakuro)
 - [Recording Composition Tool Hisui](https://github.com/shiguredo/hisui)
 - [WebRTC Stats Collector Kohaku](https://github.com/shiguredo/kohaku)
+- [Audio Streaming Gateway Suzu](https://github.com/shiguredo/suzu)
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo)
+- [Media Processors](https://github.com/shiguredo/media-processors)
 - [webrtc-build](https://github.com/shiguredo-webrtc-build/webrtc-build)
 
 優先機能実装を依頼できるのは WebRTC SFU Sora のライセンスを購入しているお客様のみとさせていただいております。
+
+## サポートについて
+
+時雨堂が公開しているオープンソースソフトウェアは、サポートは提供しておりません。
 
 ## 有償でのサポートについて
 
@@ -130,15 +139,9 @@ https://discord.gg/shiguredo
 
 アイコンの設定をすることをお勧めします。
 
-### 非アクティブメンバーのキック
+### Sora SDK やツールについて
 
-定期的に 30 日間オンラインになっていない非アクティブメンバーをキックしています。
-
-もちろん、再度参加は可能ですので、ご安心下さい。
-
-### Sora SDK について
-
-Sora の SDK は Sora を利用している場合のみ対応をします。
+Sora の SDK やツールは Sora を利用している場合のみ対応をします。
 そのため、質問をするときは必ず Sora のバージョンを教えてください。
 
 Sora Labo の場合は Sora Labo と GitHub アカウントをお知らせ下さい。
