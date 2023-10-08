@@ -113,23 +113,24 @@ Discord で相談されて、時雨堂メンバーまたは管理者から Issue
 - [Recording Composition Tool Hisui](https://github.com/shiguredo/hisui)
 - [WebRTC Stats Collector Kohaku](https://github.com/shiguredo/kohaku)
 - [Audio Streaming Gateway Suzu](https://github.com/shiguredo/suzu)
+- [Prometheus exporter for WebRTC SFU Sora metrics](https://github.com/shiguredo/sora_exporter)
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo)
 - [Media Processors](https://github.com/shiguredo/media-processors)
 - [webrtc-build](https://github.com/shiguredo-webrtc-build/webrtc-build)
 
 優先機能実装を依頼できるのは WebRTC SFU Sora のライセンスを購入しているお客様のみとさせていただいております。
 
-## サポートについて
+## Ｄｉｓｃｏｒｄ でのサポートについて
 
-時雨堂が公開しているオープンソースソフトウェアは、サポートは提供しておりません。
+時雨堂が公開しているオープンソースソフトウェアの無償でのサポートは、提供しておりません。
 
 ## 有償でのサポートについて
 
-時雨堂が公開しているオープンソースソフトウェアは、有償のサポートを提供しておりません。
+時雨堂が公開しているオープンソースソフトウェアの有償のサポートは、基本的に提供しておりません。
 
 ## 有償でのカスタマイズについて
 
-時雨堂が公開しているオープンソースソフトウェアは、有償でのカスタマイズを提供しておりません。
+時雨堂が公開しているオープンソースソフトウェアの有償でのカスタマイズは、基本的に提供しておりません。
 
 ## Discord
 
