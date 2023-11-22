@@ -132,6 +132,7 @@ Discord で相談されて、時雨堂メンバーまたは管理者から Issue
 - [WebRTC SFU Sora Unity SDK](https://github.com/shiguredo/sora-unity-sdk)
 - [WebRTC SFU Sora C++ SDK](https://github.com/shiguredo/sora-cpp-sdk)
 - [WebRTC SFU Sora Python SDK](https://github.com/shiguredo/sora-python-sdk)
+- [WebRTC SFU Sora C SDK](http://github.com/shiguredo/sora-c-sdk)
 - [WebRTC Load Testing Tool Zakuro](https://github.com/shiguredo/zakuro)
 - [Recording Composition Tool Hisui](https://github.com/shiguredo/hisui)
 - [WebRTC Stats Collector Kohaku](https://github.com/shiguredo/kohaku)
