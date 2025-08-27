@@ -4,7 +4,7 @@
 
 時雨堂では Discord にコミュニティサーバーを持っています。
 
-https://discord.gg/shiguredo
+<https://discord.gg/shiguredo>
 
 アイコンの設定をすることをお勧めします。
 
@@ -40,7 +40,7 @@ Sora のバージョンが分からない場合は、あらかじめ契約者に
 
 ## バージョン番号について
 
-```
+```none
 YYYY.RELEASE.FIX
 ```
 
@@ -53,7 +53,7 @@ YYYY.RELEASE.FIX
 
 ### Canary バージョンについて
 
-```
+```none
 YYYY.RELEASE.FIX-canary.CANARY-RELEASE
 ```
 
@@ -132,7 +132,6 @@ Discord で相談されて、時雨堂メンバーまたは管理者から Issue
 - [WebRTC SFU Sora Unity SDK](https://github.com/shiguredo/sora-unity-sdk)
 - [WebRTC SFU Sora C++ SDK](https://github.com/shiguredo/sora-cpp-sdk)
 - [WebRTC SFU Sora Python SDK](https://github.com/shiguredo/sora-python-sdk)
-- [WebRTC SFU Sora C SDK](http://github.com/shiguredo/sora-c-sdk)
 - [WebRTC Load Testing Tool Zakuro](https://github.com/shiguredo/zakuro)
 - [Recording Composition Tool Hisui](https://github.com/shiguredo/hisui)
 - [WebRTC Stats Collector Kohaku](https://github.com/shiguredo/kohaku)
@@ -141,6 +140,7 @@ Discord で相談されて、時雨堂メンバーまたは管理者から Issue
 - [WebRTC Native Client Momo](https://github.com/shiguredo/momo)
 - [Media Processors](https://github.com/shiguredo/media-processors)
 - [webrtc-build](https://github.com/shiguredo-webrtc-build/webrtc-build)
+- [moqt-build](https://github.com/shiguredo-webrtc-build/moqt-build)
 
 優先機能実装を依頼できるのは WebRTC SFU Sora のライセンスを購入しているお客様のみとさせていただいております。
 
