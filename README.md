@@ -110,47 +110,19 @@ Gist などを利用してこちらがわかるように丁寧にお伝えくだ
 バグ報告はまず Discord のそれぞれのチャネルへお願いします。
 ただし、 Sora のライセンス契約の有無に関わらず、応答時間と解決を保証しませんのでご了承ください。
 
-## GitHub Issues
-
-Discord で相談されて、時雨堂メンバーまたは管理者から Issues へ報告を依頼されたときのみ利用してください。
-
 ## GitHub Pull-Request
 
-改善や修正の Pull-Request を送りたい場合、まず Discord のそれぞれのチャネルへお願いします。
-
-1 度マージした改善や修正は継続的にメンテナンスする必要があります。そのため「議論」と「説得」を求めます。
-それが難しいと感じた場合は fork して利用してください。時雨堂の OSS は開発についてはクローズドです。
+一切受け付けていません。
 
 ## 優先機能実装について
 
-時雨堂が公開しているオープンソースソフトウェアは実装を予定している機能を「優先して実装する」という有償での依頼を受けているものがあります。
+時雨堂が公開しているオープンソースソフトウェアは実装を予定している機能を「優先して実装する」という有償での依頼を受け付けています。
 
-- [WebRTC SFU Sora JavaScript SDK](https://github.com/shiguredo/sora-js-sdk)
-- [WebRTC SFU Sora DevTools](https://github.com/shiguredo/sora-devtools)
-- [WebRTC SFU Sora iOS SDK](https://github.com/shiguredo/sora-ios-sdk)
-- [WebRTC SFU Sora Android SDK](https://github.com/shiguredo/sora-android-sdk)
-- [WebRTC SFU Sora Unity SDK](https://github.com/shiguredo/sora-unity-sdk)
-- [WebRTC SFU Sora C++ SDK](https://github.com/shiguredo/sora-cpp-sdk)
-- [WebRTC SFU Sora Python SDK](https://github.com/shiguredo/sora-python-sdk)
-- [WebRTC Load Testing Tool Zakuro](https://github.com/shiguredo/zakuro)
-- [Recording Composition Tool Hisui](https://github.com/shiguredo/hisui)
-- [WebRTC Stats Collector Kohaku](https://github.com/shiguredo/kohaku)
-- [Audio Streaming Gateway Suzu](https://github.com/shiguredo/suzu)
-- [Prometheus exporter for WebRTC SFU Sora metrics](https://github.com/shiguredo/sora_exporter)
-- [WebRTC Native Client Momo](https://github.com/shiguredo/momo)
-- [Media Processors](https://github.com/shiguredo/media-processors)
-- [webrtc-build](https://github.com/shiguredo-webrtc-build/webrtc-build)
-- [moqt-build](https://github.com/shiguredo-webrtc-build/moqt-build)
-
-優先機能実装を依頼できるのは WebRTC SFU Sora のライセンスを購入しているお客様のみとさせていただいております。
-
-## サポートやカスタマイズについて
-
-時雨堂が公開しているオープンソースソフトウェアのサポートやカスタマイズは、提供しておりません。
+優先機能実装を依頼できるのは WebRTC SFU Sora / Sora Cloud を契約しているお客様のみとさせていただいております。詳細はサポートまでお問い合わせください。
 
 ## 有償でのサポートについて
 
-時雨堂が公開しているオープンソースソフトウェアの有償のサポートは、提供しておりません。
+時雨堂が公開しているオープンソースソフトウェアの有償のサポートは WebRTC SFU Sora / Sora Cloud を契約しているお客様にのみ技術支援という形で提供しております。詳細はサポートまでお問い合わせください。
 
 ## 有償でのカスタマイズについて
 
