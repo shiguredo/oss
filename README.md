@@ -1,5 +1,78 @@
 # 時雨堂のオープンソースソフトウェアについて
 
+## ライセンスについて
+
+時雨堂が公開しているオープンソースソフトウェアはすべて Apache License 2.0 で公開しています。
+
+[Apache License, Version 2\.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+## WebRTC SFU Sora
+
+### SDK
+
+- sora-js-sdk
+- sora-ios-sdk
+- sora-android-sdk
+- sora-cpp-sdk
+- sora-unity-sdk
+- sora-python-sdk
+
+### ツール
+
+- Hisui
+  - <https://github.com/shiguredo/hisui>
+- Zakuro
+  - <https://github.com/shiguredo/zakuro>
+  - Sora C++ SDK を利用した WebRTC SFU Sora の負荷テストツール
+  - ベースを C++ から Rust へ変更予定
+- Kohaku
+  - <https://github.com/shiguredo/kohaku>
+  - Fluent Bit + DuckDB + Grafana で構成された Sora のログ可視化ツール
+
+## OpenAyame
+
+## Momo
+
+## Erlang/OTP ライブラリ
+
+- kvconf
+  - <https://github.com/shiguredo/kvconf>
+  - Sora で利用している INI 形式設定ファイル
+- swidden
+  - <https://github.com/shiguredo/swidden>
+  - Sora で利用しているヘッダーベースルーティング HTTP API ライブラリ
+- jesse
+  - <https://github.com/shiguredo/jesse>
+  - Sora で利用している JSON Schema ライブラリ
+- base32_clockwork
+  - <https://github.com/shiguredo/base32_clockwork>
+  - Sora で利用している Base32 エンコードライブラリ
+- jsone
+  - <https://github.com/shiguredo/jsone>
+  - Sora で利用している [sile/jsone](https://github.com/sile/jsone) 互換 JSON ライブラリ
+  - Erlang/OTP の json モジュールを jsone 互換にするためのラッパーライブラリ
+
+## Python ライブラリ
+
+- blend2d-py
+- libdatachannel-py
+- mp4-py
+- webcodecs-py
+- raw-player
+
+## Rust ライブラリ
+
+- mp4-rs
+- rtmp-rs
+- srt-rs
+- http11-rs
+- websocket-rs
+- http2-rs
+- audio-device-rs
+- video-device-rs
+- webrtc-rs
+- raw-player-rs
+
 ## Discord
 
 時雨堂では Discord にコミュニティサーバーを持っています。
@@ -31,12 +104,6 @@ Sora のバージョンが分からない場合は、あらかじめ契約者に
 ### Lua の開発スタイルを参考にしています
 
 [Lua はオープンソフトウェアだが、オープン開発されたことは一度もない](https://medium.com/@voluntas/lua-%E3%81%AF%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%A0%E3%81%8C-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%95%E3%82%8C%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AF%E4%B8%80%E5%BA%A6%E3%82%82%E3%81%AA%E3%81%84-61ea83ef96f7)
-
-## ライセンスについて
-
-時雨堂が公開しているオープンソースソフトウェアはすべて Apache License 2.0 で公開しています。
-
-[Apache License, Version 2\.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## バージョン番号について
 
