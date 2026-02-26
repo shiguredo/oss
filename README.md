@@ -71,7 +71,12 @@
 - audio-device-rs
 - video-device-rs
 - webrtc-rs
+  - https://github.com/shiguredo/webrtc-rs
 - raw-player-rs
+- toml-rs
+  - https://github.com/shiguredo/toml-rs
+- rtsp-rs
+  - https://github.com/shiguredo/rtsp-rs
 
 ## Discord
 
