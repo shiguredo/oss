@@ -62,21 +62,31 @@
 
 ## Rust ライブラリ
 
-- mp4-rs
-- rtmp-rs
-- srt-rs
-- http11-rs
-- websocket-rs
-- http2-rs
-- audio-device-rs
-- video-device-rs
-- webrtc-rs
-  - https://github.com/shiguredo/webrtc-rs
-- raw-player-rs
-- toml-rs
-  - https://github.com/shiguredo/toml-rs
-- rtsp-rs
-  - https://github.com/shiguredo/rtsp-rs
+- [mp4-rs](https://github.com/shiguredo/mp4-rs)
+- [rtmp-rs](https://github.com/shiguredo/rtmp-rs)
+- [srt-rs](https://github.com/shiguredo/srt-rs)
+- [http11-rs](https://github.com/shiguredo/http11-rs)
+- [websocket-rs](https://github.com/shiguredo/websocket-rs)
+- [http2-rs](https://github.com/shiguredo/http2-rs)
+- [http3-rs](https://github.com/shiguredo/http3-rs)
+- [audio-device-rs](https://github.com/shiguredo/audio-device-rs)
+- [video-device-rs](https://github.com/shiguredo/video-device-rs)
+- [libvpx-rs](https://github.com/shiguredo/libvpx-rs)
+- [opus-rs](https://github.com/shiguredo/opus-rs)
+- [svt-av1-rs](https://github.com/shiguredo/svt-av1-rs)
+- [dav1d-rs](https://github.com/shiguredo/dav1d-rs)
+- [aom-rs](https://github.com/shiguredo/aom-rs/)
+- [webrtc-rs](https://github.com/shiguredo/webrtc-rs)
+- [raw-player-rs](https://github.com/shiguredo/raw-player-rs)
+- [toml-rs](https://github.com/shiguredo/toml-rs)
+- [rtsp-rs](https://github.com/shiguredo/rtsp-rs)
+- [nvcodec-rs](https://github.com/shiguredo/nvcodec-rs)
+- [vpl-rs](https://github.com/shiguredo/vpl-rs)
+- [amf-rs](https://github.com/shiguredo/amf-rs)
+- [v4l2-rs](https://github.com/shiguredo/v4l2-rs)
+- [libcamera-rs](https://github.com/shiguredo/libcamera-rs)
+- [cmake-rs](https://github.com/shiguredo/cmake-rs)
+- [cargo-sysroot](https://github.com/shiguredo/cargo-sysroot)
 
 ## Discord
 
