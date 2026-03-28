@@ -73,6 +73,7 @@
 - [video-device-rs](https://github.com/shiguredo/video-device-rs)
 - [libvpx-rs](https://github.com/shiguredo/libvpx-rs)
 - [opus-rs](https://github.com/shiguredo/opus-rs)
+- [fdk-aac-rs](https://github.com/shiguredo/fdk-aac-rs/)
 - [svt-av1-rs](https://github.com/shiguredo/svt-av1-rs)
 - [dav1d-rs](https://github.com/shiguredo/dav1d-rs)
 - [aom-rs](https://github.com/shiguredo/aom-rs/)
