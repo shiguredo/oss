@@ -98,8 +98,6 @@
 - [websocket-rs](https://github.com/shiguredo/websocket-rs)
 - [webrtc-rs](https://github.com/shiguredo/webrtc-rs)
 
-重複はありませんでした。全34件をアルファベット順に並べました。
-
 ## Discord
 
 時雨堂では Discord にコミュニティサーバーを持っています。
